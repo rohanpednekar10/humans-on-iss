@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-weight: bolder;
+	font-size: 1000%;
+}
+
+h4 {
+	font-weight: bolder;	
+}
+
+p {
+	font-size: 200%;
+}
+
+#earth {
+	font-size: 350%;
+}
+
+.card {
+	border-width: 0px;
+	background-color: #303030;
+}
+
+/*custom scrollbar*/
+
+::-webkit-scrollbar {
+	width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: grey;
+}
+
+/*end custom scrollbar*/
